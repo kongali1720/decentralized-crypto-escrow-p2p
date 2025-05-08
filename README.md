@@ -58,7 +58,10 @@ Kalau kamu merasa proyek ini bermanfaat dan ingin memberi semangat, kamu bisa ki
 
 ---
 
-> Dibuat dengan ❤️ oleh [@bungtempong99](https://github.com/kongali1720)
+<<<<<<< HEAD
+=======
+> Dibuat dengan ❤️ oleh [@bungtempong99](https://github.com/bkongali1720)
+>>>>>>> 1da8776 (WIP: Update README and add project structure)
 
 ---
 
