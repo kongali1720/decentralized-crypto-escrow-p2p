@@ -58,7 +58,7 @@ Kalau kamu merasa proyek ini bermanfaat dan ingin memberi semangat, kamu bisa ki
 
 ---
 
-> Dibuat dengan ❤️ oleh [@bungtempong99](https://github.com/bungtempong99)
+> Dibuat dengan ❤️ oleh [@bungtempong99](https://github.com/kongali1720)
 
 ---
 
