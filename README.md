@@ -54,7 +54,7 @@ Terima kasih telah mendukung proyek ini 🙏
 
 Kalau kamu merasa proyek ini bermanfaat dan ingin memberi semangat, kamu bisa kirim dukungan via PayPal:
 
-[![Donate via PayPal](https://www.paypal.com/paypalme/bungtempong99)
+[https://www.paypal.com/paypalme/bungtempong99](https://www.paypal.com/paypalme/bungtempong99)
 
 ---
 
